@@ -1,4 +1,6 @@
+# SUDHANSHU GUPTA
+
 ---
-title: Welcome to my blog
+title: All About Me!
 ---
 
